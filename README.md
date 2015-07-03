@@ -23,4 +23,4 @@ The task was solved by separating the big problem into small relatively easily-s
 The result
 ---
 
-The team scored second, collecting about 30% of all edges (which was a good result bearing in mind the fact that there were about 15 teams competing). Having accoplished such result, the two member team was awared by the VMware employees who conducted the competition.f
+The team scored second, collecting about 30% of all edges (which was a good result bearing in mind the fact that there were about 15 teams competing). Having accoplished such result, the two member team was awared by the VMware employees who conducted the competition.

@@ -14,7 +14,7 @@ As this is a war, your program has to collect more objects than other programs r
 ```
 
 ---
-How the task was solved?
+How was the task solved?
 ---
 
 The task was solved by separating the big problem into small relatively easily-solved challenges. Having created the data structure to contain edges, the team created an algorithm to fill the structure with real data (removing roots and their children). Then we used аebt-first search (DFS) algorithm, improving it to find the most suitable solution for the given task (we aim to collect the longest trajectory)
